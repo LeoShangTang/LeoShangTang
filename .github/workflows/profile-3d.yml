@@ -16,7 +16,7 @@ jobs:
 
        - name: Debug Environment Variables
           run: |
-            echo "USERNAME is ${{ env.USERNAME }}"
+            echo "USERNAME is ${{ env.USER_NAME }}"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ secrets.USER_NAME }}
