@@ -1,5 +1,5 @@
-<div>
-    <img src="./Leo%20Text.gif" alt="Leo Text">
+<div >
+    <img style="border-radius:20px" src="./Leo%20Text%20with%20BG.gif" alt="Leo Text">
 </div>
 
 <table>
@@ -14,5 +14,6 @@
 </tr>
 </table>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 
+<img style="border-radius:20px" src="./profile-3d-contrib/profile-night-green.svg" alt="3-d Contributions Image">
