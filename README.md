@@ -27,27 +27,28 @@ Here are some ideas to get you started:
 </div> -->
 
 
-<div style="display: flex; flex-direction: column; background-color:#0D1117; align-items: center">
+<div style="background-color:#0D1117;">
+
 <div>
     <img src="./Leo%20Text.gif" alt="Leo Text">
 </div>
 
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center">
-
-<div style="margin: 0 0 10px 30px; width:40%; font-size:1.8vw">
+<table>
+<tr>
+<td style="font-size:11px">
     I'm a 3rd year Computer Science student at the University of British Columbia in Vancouver, originally from Calgary. As an aspiring UI/UX designer, I have a passion for crafting engaging and user-friendly layouts for various projects. Beyond coding, I have a strong passion for graphic design and enjoy playing badminton. Whether I'm creating digital artwork or playing on the court, I always strive to do my best!
-</div>
+</td>
 
-<div style="margin-bottom: 10px; margin-left: 40px; width:40%;">
-    <img src="./Spinning%20Flower%20Pixel.gif" alt="Spinning Flower">
-</div>
+<td style="width:150px">
+<img src="./Spinning%20Flower%20Pixel.gif" alt="Spinning Flower">
+</td>
+</tr>
+</table>
 
-
-</div>
-<div style="width: 80%; border-radius: 15px; overflow:hidden">
+<div style="width:600px; height: 400px; overflow:hidden; border-radius:20px">
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 </div>
+
 </div>
