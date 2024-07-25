@@ -1,7 +1,3 @@
-
-<table>
-  <tr>
-    <td style="background-color:#0D1117; padding: 10px;">
 <div>
     <img src="./Leo%20Text.gif" alt="Leo Text">
 </div>
@@ -19,5 +15,4 @@
 </table>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-  </tr>
-</table>
+
