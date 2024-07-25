@@ -19,4 +19,6 @@ I'm a 3rd year Computer Science student at the University of British Columbia in
   </tr>
 </table>
 
-<img  src="./profile-3d-contrib/profile-night-green.svg" alt="3-d Contributions Image">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3-d Contributions Image">
+
+<img width="100%" src="./media/RainPlantBanner.gif" alt="Spinning Flower">
