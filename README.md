@@ -17,9 +17,12 @@
 
 <br>
 
-<img  src="https://raw.githubusercontent.com/LeoShangTang/LeoShangTang/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="2-d graph info">
-
-<br>
+<table border="0" align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/LeoShangTang/LeoShangTang/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="2-d graph info"></td>
+    <td><img src="https://raw.githubusercontent.com/LeoShangTang/LeoShangTang/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commits Info"></td>
+  </tr>
+</table>
 
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 <p align="center">
