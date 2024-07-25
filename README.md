@@ -17,6 +17,10 @@
 
 <br>
 
+<img  src="https://raw.githubusercontent.com/LeoShangTang/LeoShangTang/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="2-d graph info">
+
+<br>
+
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
 <p align="center">
     <img  src="./profile-3d-contrib/profile-night-green.svg" alt="3-d Contributions Image">
