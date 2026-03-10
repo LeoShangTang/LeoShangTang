@@ -4,10 +4,10 @@
 
 <img align="right"  width="140px" src="./media/Spinning%20Flower%20Pixel.gif" alt="Spinning Flower">
 
-<h3 align="left">  Hi There! 🌱 </h3>
+<h3 align="left">  Hey 🌱 </h3>
 
 <p align="left" >
-I'm a full stack developer and 3rd year Computer Science student at the University of British Columbia in Vancouver!
+I'm a full stack developer and 4th year Computer Science student at the University of British Columbia in Vancouver
 </p>
 
 <br>
